@@ -1,0 +1,23 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore local environment configs and IDE settings
+.env
+*.env
+.vscode/
+.idea/
+
+# Ignore test output
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Ignore model files and data
+openpose-models/
+shapy-data/

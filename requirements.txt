@@ -1,0 +1,2 @@
+fastapi[standard]
+PyOpenGL_accelerate
